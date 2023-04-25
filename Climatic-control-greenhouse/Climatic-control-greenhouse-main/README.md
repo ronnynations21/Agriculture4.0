@@ -1,7 +1,7 @@
 # Climatic-control-greenhouse
 Sistema para el control climático remoto de invernaderos ecointeligentes para la producción de hortalizas y vegetales de temporada. 
 
-Aplicación Web que incluye además una aplicación móvil hecha en Flutter. Front end: Python y Back end: SQL. Incorporamos además el Machine Learning y la Inteligencia Artificial por medio del uso de Redes neuronales y Lógica Fuzzy.
+Aplicación Web que incluye además una aplicación móvil en Flutter. Incorporamos además el Machine Learning y la Inteligencia Artificial por medio del uso de Redes neuronales y Lógica Fuzzy.
 
 Nombre de la Aplicación: sisconcli v1.0.
 
